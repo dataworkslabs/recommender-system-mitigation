@@ -1,0 +1,26 @@
+---
+title: "Mitigating the Harm of Recommender Systems"
+author: "Mark Hamer"
+date: "June 25, 2026"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+# Research Discussion
+
+## Mitigating the Harm of Recommender Systems
+
+I think one of the best ways to reduce the harm caused by recommender systems is to optimize for more than engagement. Many platforms recommend content based on what keeps users watching or clicking, even if that content becomes more extreme over time. As Tufekci explains, YouTube can gradually recommend increasingly radical videos because its goal is to maximize watch time, not provide balanced information.
+
+Platforms can reduce this by adding more diversity to recommendations instead of only suggesting similar content. They should also regularly audit their algorithms for bias and consider fairness alongside engagement. Another useful approach is reducing the influence of popularity when generating recommendations. As Krishnan and colleagues explain, ratings can be shaped by social influence rather than actual quality, creating feedback loops where already popular content continues to dominate.
+
+Recommender systems are valuable, but they should be designed with long-term user outcomes in mind instead of focusing only on clicks and watch time. Small changes to ranking algorithms and regular bias testing can make recommendations more balanced without making them less useful.
+
+## References
+
+DiResta, R. (2018). *Up Next: A Better Recommendation System*. Wired.
+
+Krishnan, S., Patel, J., Franklin, M. J., & Goldberg, K. *Social Influence Bias in Recommender Systems: A Methodology for Learning, Analyzing, and Mitigating Bias in Ratings*.
+
+Tufekci, Z. (2018). *YouTube, the Great Radicalizer*. The New York Times.
